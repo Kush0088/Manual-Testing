@@ -2,7 +2,7 @@ Software Testing Projects by Aghera Kush
 
 Welcome to the Software Testing Projects repository! This collection is created to help you gain practical experience in both manual and automated software testing. Whether you're a beginner or looking to sharpen your QA skills, these hands-on projects are designed to simulate real-world testing scenarios.
 
- Table of Contents
+📚 Table of Contents
 
 Introduction
 
@@ -26,20 +26,11 @@ Contributing
 
 License
 
-Introduction
+🔍 Introduction
 
 This repository is curated by Aghera Kush to provide learners and professionals with hands-on software testing experience. It includes a variety of projects covering both manual testing methods and automated testing tools, offering a complete learning experience.
 
-
-
-
- 
- Manual Testing Projects
-
-
-
-
- 
+📝 Manual Testing Projects
 Project 1: Online Retail Website Testing
 
 Objective: Test the key features, usability, and security aspects of an online shopping website.
@@ -56,11 +47,7 @@ Scope: Covers test cases for user login, fund transfer, account history, and tra
 
 Deliverables: Test Plan, Test Cases, Bug Reports.
 
-
-
-Automation Testing Projects
-
-
+🤖 Automation Testing Projects
 Project 1: Selenium Web Automation
 
 Objective: Automate test cases for web-based applications using Selenium WebDriver.
